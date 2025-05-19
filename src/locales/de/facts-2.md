@@ -1,0 +1,6 @@
+- **Laufzeit**: 2 Jahre (1. Mai 2025 – 30. April 2027)
+- **Fördersumme**: ~€2,8 Mio; Gesamtvolumen ~€3,4 Mio
+- **Konsortium**: 14 Partner (Forschung, Wirtschaft, Gesundheitswesen)
+- **Koordination**: [Ludwig Boltzmann Institut für Digitale Gesundheit und Prävention](https://dhp.lbg.ac.at/)
+- **Anwendungsfälle**: 3 medizinische Anwendungsfälle mit Kliniken & Gesundheitseinrichtungen
+- **Technologien**: Breites Spektrum an digitalen (Gesundheits-)Technologien

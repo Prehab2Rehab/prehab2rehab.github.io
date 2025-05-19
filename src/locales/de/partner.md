@@ -1,0 +1,3 @@
+# Projektpartner
+
+Das Projekt bezieht organisatorische, klinische, wirtschaftliche und technologische Dimensionen ein. Digitale Technologien dienen dabei als verbindendes Element für alle beteiligten Stakeholder. Das Konsortium setzt sich aus Unternehmenspartnern, akademischen und nicht-akademischen Forschungsinstitutionen, Gesundheitsdienstleistern sowie öffentlichen Kliniken und Gesundheitsexpert:innen zusammen.

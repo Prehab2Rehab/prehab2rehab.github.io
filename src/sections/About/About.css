@@ -1,0 +1,30 @@
+#journey {
+  margin: 2rem -0.5rem;
+  max-width: 1300px;
+}
+
+.prehab {
+  color: #0077BB;
+}
+
+.rehab {
+  color: #009988;
+}
+
+.to {
+  background: linear-gradient(to right, #0077BB, #009988);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  /* For some browsers */
+  background-clip: text;
+  color: transparent;
+}
+
+.keywords {
+  display: inline-block; /* shrink to fit text */
+  background: linear-gradient(to right, #0077BB, #009988);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  color: transparent;
+}
