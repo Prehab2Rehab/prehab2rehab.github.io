@@ -12,7 +12,7 @@ function Menu() {
   const location = useLocation();
 
   const toggleLanguage = () => {
-    const newLang = i18n.language === 'en' ? 'de' : 'en';
+    const newLang = i18n.resolvedLanguage === 'en' ? 'de' : 'en';
     i18n.changeLanguage(newLang);
   };
 
@@ -43,18 +43,15 @@ function Menu() {
             e.preventDefault();
             setOpen(false);
             if (location.pathname !== '/') {
-              // Not on home, navigate instantly and scroll instantly
               navigate('/');
               window.scrollTo(0, 0);
             } else {
-              // Already on home, smooth scroll to top
               window.scrollTo({ top: 0, left: 0, behavior: 'smooth' });
             }
           }}
         >
           <img className="logo" src="/logo.svg" alt="Logo" />
         </Link>
-
 
         <ul className="menu-items desktop-only">
           {sections.map((section) => (
@@ -68,13 +65,13 @@ function Menu() {
 
         <div className="desktop-only">
           <button className="lang-btn" onClick={toggleLanguage}>
-            {i18n.language === 'en' ? 'DE' : 'EN'}
+            {i18n.resolvedLanguage === 'en' ? 'DE' : 'EN'}
           </button>
         </div>
 
         <div className="mobile-only menu-right">
           <button className="lang-btn-mobile" onClick={toggleLanguage}>
-            {i18n.language === 'en' ? 'DE' : 'EN'}
+            {i18n.resolvedLanguage === 'en' ? 'DE' : 'EN'}
           </button>
 
           <button className="burger-btn" onClick={() => setOpen(!open)}>

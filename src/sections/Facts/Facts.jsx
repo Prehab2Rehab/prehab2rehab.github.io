@@ -16,7 +16,7 @@ const About = () => {
                 <div className="facts-logo-container">
                     <div className="facts-logo-wrapper">
                         <a href="https://www.ffg.at/" target="_blank">
-                            <img src="/logos/FFG.svg" />
+                            <img src="/logos/FFG.png" />
                         </a>
                     </div>
 

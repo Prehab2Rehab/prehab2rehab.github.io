@@ -34,12 +34,12 @@ const Partner = () => {
                     </div>
                     <div className="logo-wrapper">
                         <a href="https://www.meduniwien.ac.at/" target="_blank">
-                            <img src="/logos/med-uni.svg" />
+                            <img src="/logos/med-uni.png" />
                         </a>
                     </div>
                     <div className="logo-wrapper">
                         <a href="https://www.salzburgresearch.at/" target="_blank">
-                            <img src="/logos/sbg-research.svg" />
+                            <img src="/logos/salzburg-research.jpg" />
                         </a>
                     </div>
                     <div className="logo-wrapper">
@@ -49,22 +49,22 @@ const Partner = () => {
                     </div>
                     <div className="logo-wrapper">
                         <a href="https://www.alphaport.at" target="_blank">
-                            <img src="/logos/alphaport.svg" />
+                            <img src="/logos/alphaport.png" />
                         </a>
                     </div>
                     <div className="logo-wrapper">
                         <a href="https://www.badvigaun.com/" target="_blank">
-                            <img src="/logos/bad-vigaun.svg" />
+                            <img src="/logos/bad-vigaun.jpg" />
                         </a>
                     </div>
                     <div className="logo-wrapper">
                         <a href="https://www.loidl-consulting.at/" target="_blank">
-                            <img src="/logos/loidl.svg" />
+                            <img src="/logos/loidl.png" />
                         </a>
                     </div>
                     <div className="logo-wrapper">
                         <a href="https://redlink.at/" target="_blank">
-                            <img src="/logos/redlink.svg" />
+                            <img src="/logos/redlink.jpg" />
                         </a>
                     </div>
                     <div className="logo-wrapper">
@@ -74,12 +74,12 @@ const Partner = () => {
                     </div>
                     <div className="logo-wrapper">
                         <a href="https://redox-interactive.com/" target="_blank">
-                            <img src="/logos/redox.svg" />
+                            <img src="/logos/redox.png" />
                         </a>
                     </div>
                     <div className="logo-wrapper">
                         <a href="https://www.stappone.com/" target="_blank">
-                            <img src="/logos/stappone.svg" />
+                            <img src="/logos/stappone.png" />
                         </a>
                     </div>
                 </div>
