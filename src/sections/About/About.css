@@ -1,6 +1,9 @@
 #journey {
   margin: 2rem -0.5rem;
   max-width: 1300px;
+  display: block;              /* Prevents inline spacing */
+  width: 100%;                 /* Responsive width */
+  height: auto;                /* Adjust height to keep aspect ratio */
 }
 
 .prehab {
