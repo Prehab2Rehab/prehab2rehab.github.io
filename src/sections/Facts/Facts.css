@@ -1,0 +1,57 @@
+.facts-logo-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    gap: 12px;
+    margin-bottom: 1rem;
+}
+
+.facts-logo-wrapper {
+    width: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    padding: 8px;
+    transition: transform 0.2s ease-in-out;
+}
+
+.facts-logo-wrapper:hover {
+    transform: scale(1.05);
+}
+
+.facts-logo-wrapper img {
+    width: 100%;
+}
+
+.facts-logo-wrapper a {
+    width: 100%;
+}
+
+@media (min-width: 600px) {
+    .facts-logo-container {
+        gap: 16px;
+    }
+
+    .facts-logo-wrapper {
+        width: 140px;
+        padding: 10px;
+        box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+        border-radius: 11px;
+    }
+}
+
+@media (min-width: 1024px) {
+    .facts-logo-container {
+        gap: 24px;
+    }
+
+    .facts-logo-wrapper {
+        width: 180px;
+        padding: 12px;
+        box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+        border-radius: 12px;
+    }
+}

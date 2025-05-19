@@ -1,0 +1,6 @@
+- **Duration**: 2 years (May 1, 2025 – April 30, 2027)  
+- **Funding Amount**: ~€2.8 million; total volume ~€3.4 million  
+- **Consortium**: 14 partners (research, industry, healthcare)  
+- **Coordination**: [Ludwig Boltzmann Institute for Digital Health and Prevention](https://dhp.lbg.ac.at/)  
+- **Use Cases**: 3 medical use cases with clinics & healthcare institutions  
+- **Technologies**: Wide range of digital (health) technologies  
