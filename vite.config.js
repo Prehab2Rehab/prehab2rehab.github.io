@@ -4,7 +4,7 @@ import react from '@vitejs/plugin-react'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-   base: './', // important for static assets
+  base: '/prehab2rehab.github.io', // important for static assets
   build: {
     outDir: 'dist'
   }
