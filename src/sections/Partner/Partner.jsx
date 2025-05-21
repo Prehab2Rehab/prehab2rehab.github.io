@@ -69,7 +69,7 @@ const Partner = () => {
                     </div>
                     <div className="logo-wrapper">
                         <a href="https://www.motum.at/" target="_blank">
-                            <img src="/logos/motum.svg" />
+                            <img src="/logos/MOTUM.jpg" />
                         </a>
                     </div>
                     <div className="logo-wrapper">
