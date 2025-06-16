@@ -58,8 +58,8 @@ const en = {
     LBI_DHP: {
       name: "LBI for Digital Health and Prevention",
       people: [
-        { role: "Project lead, digital health applications (technical and research-related aspects)" },
-        { role: "Postdoctoral researcher, co-responsible researcher" },
+        { role: "Project lead" },
+        { role: "Lead work package 2: Stakeholder involvement" },
         { role: "Project administration" },
         { role: "Research and development" },
         { role: "Administration, communication" },
@@ -78,7 +78,7 @@ const en = {
     PMU: {
       name: "Paracelsus Medical Private University",
       people: [
-        { role: "Leader of work package 4: Feasibility studies" },
+        { role: "Lead work package 4: Feasibility studies" },
         { role: "" }
       ]
     },

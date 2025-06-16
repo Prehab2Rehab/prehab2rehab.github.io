@@ -59,8 +59,8 @@ const de = {
       name: "LBI für Digitale Gesundheit und Prävention",
       imgkey: "01-LBI-DHP",
       people: [
-        { name: "Jan Smeddinck", role: "Projektleitung, Digitale Gesundheitsanwendungen (technische und forschungsbezogene Aspekte)", image: "Jan-Smeddinck.jpg", rights: "" },
-        { name: "Daniela Wurhofer", role: "Postdoktorand, Mitverantwortlicher Forscher", image: "Daniela-Wurhofer.jpg", rights: "" },
+        { name: "Jan Smeddinck", role: "Projektleitung ", image: "Jan-Smeddinck.jpg", rights: "" },
+        { name: "Daniela Wurhofer", role: "Leitung Arbeitspaket 2: Stakeholdereinbindung", image: "Daniela-Wurhofer.jpg", rights: "" },
         { name: "Andreas Stainer-Hochgatterer", role: "Projektadministration", image: "Andreas-Stainer-Hochgatterer.jpg", rights: "" },
         { name: "David Haag", role: "Forschung und Entwicklung", image: "David-Haag.jpg", rights: "" },
         { name: "Daria Kolosovskaia", role: "Administration, Kommunikation", image: "Daria-Kolosovskaia.jpg", rights: "" },
@@ -72,10 +72,10 @@ const de = {
       name: "LBI für Arthritis und Rehabilitation",
       imgkey: "03-LBI-AR",
       people: [
-        { name: "Vincent Grote", role: "", image: "Vincent-Grote.jpg", rights: "" },
-        { name: "Stefan Löfler", role: "", image: "Stefan-Loefler.jpg", rights: "" },
-        { name: "Ferdinand Prüfer", role: "", image: "Ferdinand-Pruefer.jpg", rights: "" },
-        { name: "Chiara Vetrano", role: "", image: "Chiara-Vetrano.jpg", rights: "" }
+        { name: "Vincent Grote", role: "", image: "Vincent-Grote.jpg", rights: "© LBG / Nachtschatt" },
+        { name: "Stefan Löfler", role: "", image: "Stefan-Loefler.jpg", rights: "© LBG / Nachtschatt" },
+        { name: "Ferdinand Prüfer", role: "", image: "Ferdinand-Pruefer.jpg", rights: "© Julia Dragosits" },
+        { name: "Chiara Vetrano", role: "", image: "Chiara-Vetrano.jpg", rights: "© Vetrano" }
       ]
     },
     PMU: {

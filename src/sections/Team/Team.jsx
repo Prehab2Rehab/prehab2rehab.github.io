@@ -21,12 +21,14 @@ const Team = () => {
                                 <div key={`${key}-${index}`} className="team-member">
                                     <div className="photo-wrapper">
                                         <img
-                                            src={"team/" + t(`team.${key}.imgkey`,) + "/" + person.image}
+                                            src={"team/" + t(`team.${key}.imgkey`) + "/" + person.image}
                                             alt={person.name}
                                             className="team-photo"
                                         />
+                                        {person.rights && (
+                                            <div className="rights">{person.rights}</div>
+                                        )}
                                     </div>
-                                    <div className="rights">{person.rights}</div>
                                     <div className="team-info">
                                         <h3 className="name">{person.name}</h3>
                                         <p className="role">{t(`team.${key}.people.${index}.role`, person.role)}</p>
