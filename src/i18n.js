@@ -15,7 +15,7 @@ i18n
   .use(initReactI18next) // connect to react-i18next
   .init({
     resources,
-    fallbackLng: 'en',
+    fallbackLng: 'de',
     detection: {
       order: ['localStorage', 'navigator'],
       caches: ['localStorage'],
