@@ -68,9 +68,9 @@ const de = {
 
       ]
     },
-    LBI_AR: {
-      name: "LBI für Arthritis und Rehabilitation",
-      imgkey: "03-LBI-AR",
+    LBI_RR: {
+      name: "LBI for Rehabilitation Research",
+      imgkey: "03-LBI-RR",
       people: [
         { name: "Vincent Grote", role: "", image: "Vincent-Grote.jpg", rights: "© LBG / Nachtschatt" },
         { name: "Stefan Löfler", role: "", image: "Stefan-Loefler.jpg", rights: "© LBG / Nachtschatt" },

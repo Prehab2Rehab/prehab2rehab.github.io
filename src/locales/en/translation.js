@@ -66,8 +66,7 @@ const en = {
         { role: "Research and development" },
       ]
     },
-    LBI_AR: {
-      name: "LBI for Arthritis and Rehabilitation",
+    LBI_RR: {
       people: [
         { role: "" },
         { role: "" },
