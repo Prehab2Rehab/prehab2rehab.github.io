@@ -76,7 +76,7 @@ const en = {
       ]
     },
     PMU: {
-      name: "Paracelsus Medical Private University",
+      name: "Paracelsus Medical University",
       people: [
         { role: "Lead work package 4: Feasibility studies" },
         { role: "" }
@@ -100,7 +100,7 @@ const en = {
       ]
     },
     BV: {
-      name: "Medical Center Bad Vigaun",
+      name: "Bad Vigaun medical health centre",
       people: [
         { role: "" }
       ]
