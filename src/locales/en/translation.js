@@ -74,6 +74,9 @@ const en = {
         { role: "" }
       ]
     },
+    LBI_AR: {
+      name: "LBI for Arthritis and Rehabilitation",
+    },
     PMU: {
       name: "Paracelsus Medical University",
       people: [

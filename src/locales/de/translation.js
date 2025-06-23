@@ -70,12 +70,19 @@ const de = {
     },
     LBI_RR: {
       name: "LBI for Rehabilitation Research",
-      imgkey: "03-LBI-RR",
+      imgkey: "02-LBI-RR",
       people: [
         { name: "Vincent Grote", role: "", image: "Vincent-Grote.jpg", rights: "© LBG / Nachtschatt" },
         { name: "Stefan Löfler", role: "", image: "Stefan-Loefler.jpg", rights: "© LBG / Nachtschatt" },
         { name: "Ferdinand Prüfer", role: "", image: "Ferdinand-Pruefer.jpg", rights: "© Julia Dragosits" },
         { name: "Chiara Vetrano", role: "", image: "Chiara-Vetrano.jpg", rights: "© Vetrano" }
+      ]
+    },
+    LBI_AR: {
+      name: "LBI für Arthritis und Rehabilitation",
+      imgkey: "03-LBI-AR",
+      people: [
+        { name: "Bibiane Steinecker-Frohnwieser", role: "", image: "Bibiane-Steinecker-Frohnwieser.jpg", rights: "" }
       ]
     },
     PMU: {
