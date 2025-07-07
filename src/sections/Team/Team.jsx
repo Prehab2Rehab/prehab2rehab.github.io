@@ -2,6 +2,8 @@ import React from 'react';
 import { useTranslation } from 'react-i18next';
 import './Team.css';
 import deTeam from '/src/locales/de/translation.js'; // Import the German structure
+import ReactMarkdown from 'react-markdown';
+
 
 const Team = () => {
     const { t } = useTranslation();
@@ -38,6 +40,11 @@ const Team = () => {
                             ))
                         );
                     })}
+                </div>
+                <div className='team-all'>
+                    <ReactMarkdown>
+                        {t('team.all')}
+                    </ReactMarkdown>
                 </div>
             </div>
         </section>

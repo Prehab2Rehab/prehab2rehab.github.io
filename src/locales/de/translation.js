@@ -6,6 +6,7 @@ import partnerMD from './partner.md?raw';
 import journeyMD from './journey.md?raw'
 import impressumMD from './impressum.md?raw'
 import privacyPolicyMD from './privacyPolicy.md?raw'
+import teamAllMD from './team-all.md?raw'
 
 const de = {
   menu: {
@@ -122,7 +123,7 @@ const de = {
       ]
     },
     RL: {
-      name: "Redlink GmbH",
+      name: "RedLink GmbH",
       imgkey: "11-RL",
       people: [
         { name: "Andreas Gruber", role: "", image: "Andreas-Gruber.webp", rights: "" },
@@ -133,12 +134,13 @@ const de = {
       ]
     },
     RDX: {
-      name: "Redox Interactive",
+      name: "REDOX GmbH",
       imgkey: "13-RDX",
       people: [
         { name: "Philipp Götz", role: "Projektmanagement, Softwareentwicklung", image: "Philipp-Goetz.jpg", rights: "" }
       ]
-    }
+    },
+    all: teamAllMD
   },
   contact: {
     heading: "Kontakt",
