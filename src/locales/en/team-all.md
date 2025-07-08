@@ -1,4 +1,4 @@
-## Further team members:
+## Further team members
 
 **Tanja Stamm**, Lead work package 5: Health economic and systemic implications, *LBI for Arthritis and Rehabilitation, Medical University of Vienna Institute for Outcomes Research*
 

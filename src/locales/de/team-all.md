@@ -1,4 +1,4 @@
-## Weitere Teammitglieder: 
+## Weitere Teammitglieder
 
 **Tanja Stamm**, Leitung Arbeitspaket 5: Gesundheitsökonomische und systemische Implikationen, *LBI für Arthritis und Rehabilitation, Medizinische Universität Wien Institut für Outcomes Research*
 
