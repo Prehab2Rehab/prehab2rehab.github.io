@@ -71,6 +71,10 @@
     margin-bottom: 0;
 }
 
+.team-all > p{
+    margin-bottom: 0.2rem;
+}
+
 @media (min-width: 600px) {
     .team-member {
         width: 150px;
