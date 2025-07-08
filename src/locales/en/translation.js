@@ -6,6 +6,7 @@ import partnerMD from './partner.md?raw';
 import journeyMD from './journey.md?raw';
 import impressumMD from './impressum.md?raw';
 import privacyPolicyMD from './privacyPolicy.md?raw';
+import teamAllMD from './team-all.md?raw'
 
 const en = {
   menu: {
@@ -120,7 +121,8 @@ const en = {
       people: [
         { role: "Project management, software development" }
       ]
-    }
+    },
+    all: teamAllMD
   },
   contact: {
     heading: "Contact",
