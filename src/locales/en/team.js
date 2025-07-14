@@ -28,6 +28,7 @@ const team = {
     name: "Paracelsus Medical University",
     people: [
       { role: "Lead work package 4: Feasibility studies" },
+      { role: "" },
       { role: "" }
     ]
   },

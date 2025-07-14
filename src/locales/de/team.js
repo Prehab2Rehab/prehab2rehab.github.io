@@ -38,6 +38,7 @@ const team = {
     imgkey: "04-PMU",
     people: [
       { name: "Gunnar Treff", role: "Leitung Arbeitspaket 4: Machbarkeitsstudien", image: "Gunnar-Treff.jpg", rights: "" },
+      { name: "Giorjines Boppré", role: "", image: "Giorjines-Boppre.jpeg", rights: "" },
       { name: "Fabian Leinauer", role: "", image: "Fabian-Leinauer.jpg", rights: "" }
     ]
   },
