@@ -2,6 +2,10 @@
 
 **Tanja Stamm**, Lead work package 5: Health economic and systemic implications, *LBI for Arthritis and Rehabilitation, Medical University of Vienna Institute for Outcomes Research*
 
+**Margaret Andrews**, *LBI for Arthritis and Rehabilitation*
+
+**Andrea Planatscher**, *Paracelsus Medical University*
+
 **Anna Kienel**, *Medical University of Vienna Institute for Outcomes Research*
 
 **Andreas Zuckermann**, *Medical University of Vienna Institute for Outcomes Research*
