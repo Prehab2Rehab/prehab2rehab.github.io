@@ -12,7 +12,7 @@ const team = {
       { name: "Andreas Stainer-Hochgatterer", role: "Projektadministration", image: "Andreas-Stainer-Hochgatterer.jpg", rights: "" },
       { name: "David Haag", role: "Forschung und Entwicklung", image: "David-Haag.jpg", rights: "" },
       { name: "Daria Kolosovskaia", role: "Administration, Kommunikation", image: "Daria-Kolosovskaia.jpg", rights: "" },
-      { name: "Eva-Maria Krah", role: "Forschung und Entwicklung", image: "Eva-Maria-Krah.jpg", rights: "" },
+      { name: "Eva-Maria Krah", role: "Forschung und Entwicklung", image: "Eva-Maria-Krah.jpeg", rights: "" },
 
     ]
   },

@@ -2,6 +2,10 @@
 
 **Tanja Stamm**, Leitung Arbeitspaket 5: Gesundheitsökonomische und systemische Implikationen, *LBI für Arthritis und Rehabilitation, Medizinische Universität Wien Institut für Outcomes Research*
 
+**Margaret Andrews**, *LBI für Arthritis und Rehabilitation*
+
+**Andrea Planatscher**, *Paracelsus Medizinische Privatuniversität*
+
 **Anna Kienel**, *Medizinische Universität Wien Institut für Outcomes Research*
 
 **Andreas Zuckermann**, *Medizinische Universität Wien Institut für Outcomes Research*
