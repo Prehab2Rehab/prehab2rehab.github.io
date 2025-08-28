@@ -7,6 +7,7 @@ import journeyMD from './journey.md?raw'
 import impressumMD from './impressum.md?raw'
 import privacyPolicyMD from './privacyPolicy.md?raw'
 import teamJS from "./team.js";
+import articlesJS from './articles.js';
 
 const de = {
   menu: {
@@ -15,6 +16,7 @@ const de = {
     facts: "Projektfakten",
     usecases: "Anwendungsfälle",
     partner: "Projektpartner",
+    news: "Neuigkeiten",
     contact: "Kontakt"
   },
   slogan: {
@@ -62,6 +64,11 @@ const de = {
     address: "Lindhofstr. 22, 5020 Salzburg, Österreich",
     phone: "Telefon",
     email: "E-Mail",
+  },
+  news: {
+    articles: articlesJS,
+    more: "Mehr auf LinkedIn lesen",
+    video: "Video ansehen"
   },
   impressum: impressumMD,
   privacyPolicy: privacyPolicyMD,

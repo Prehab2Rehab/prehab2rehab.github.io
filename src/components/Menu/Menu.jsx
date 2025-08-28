@@ -17,22 +17,22 @@ function Menu() {
   };
 
   const handleNavigateToSection = (e, sectionId) => {
-    e.preventDefault();
-    setOpen(false);
+      e.preventDefault();
+      setOpen(false);
 
-    if (location.pathname !== '/') {
-      navigate('/');
-      setTimeout(() => {
+      if (location.pathname !== '/') {
+        navigate('/');
+        setTimeout(() => {
+          const el = document.getElementById(sectionId);
+          if (el) el.scrollIntoView({ behavior: 'smooth' });
+        }, 50);
+      } else {
         const el = document.getElementById(sectionId);
         if (el) el.scrollIntoView({ behavior: 'smooth' });
-      }, 50);
-    } else {
-      const el = document.getElementById(sectionId);
-      if (el) el.scrollIntoView({ behavior: 'smooth' });
     }
   };
 
-  const sections = ['about', 'facts', 'goals', 'usecases', 'partner', 'contact'];
+  const sections = ['about', 'usecases', 'partner', 'news', 'contact'];
 
   return (
     <nav className="menu">
@@ -56,7 +56,7 @@ function Menu() {
         <ul className="menu-items desktop-only">
           {sections.map((section) => (
             <li key={section}>
-              <Link to="/" onClick={(e) => handleNavigateToSection(e, section)}>
+              <Link to={`/${section}`}  onClick={(e) => handleNavigateToSection(e, section)}>
                 {t(`menu.${section}`)}
               </Link>
             </li>
@@ -84,7 +84,7 @@ function Menu() {
         <ul className="menu-items mobile-only">
           {sections.map((section) => (
             <li key={section}>
-              <Link to="/" onClick={(e) => handleNavigateToSection(e, section)}>
+              <Link to={`/${section}`} onClick={(e) => handleNavigateToSection(e, section)}>
                 {t(`menu.${section}`)}
               </Link>
             </li>

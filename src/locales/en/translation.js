@@ -7,6 +7,7 @@ import journeyMD from './journey.md?raw';
 import impressumMD from './impressum.md?raw';
 import privacyPolicyMD from './privacyPolicy.md?raw';
 import teamJS from "./team.js";
+import articlesJS from './articles.js';
 
 const en = {
   menu: {
@@ -15,6 +16,7 @@ const en = {
     facts: "Project Facts",
     usecases: "Use Cases",
     partner: "Project Partners",
+    news: "News",
     contact: "Contact"
   },
   slogan: {
@@ -55,6 +57,11 @@ const en = {
     industry: "Industry"
   },
   team: teamJS,
+  news: {
+    articles: articlesJS,
+    more: "Read more on LinkedIn",
+    video: "Watch video"
+  },
   contact: {
     heading: "Contact",
     description: "If you have any questions, comments, or would like to participate in the project, feel free to contact us at any time.",
