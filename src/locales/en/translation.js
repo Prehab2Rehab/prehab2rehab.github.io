@@ -69,6 +69,7 @@ const en = {
     address: "Lindhofstr. 22, 5020 Salzburg, Austria",
     phone: "Phone",
     email: "Email",
+    linkedIn: "Prehab2Rehab on LinkedIn"
   },
   impressum: impressumMD,
   privacyPolicy: privacyPolicyMD,
