@@ -24,12 +24,6 @@
 
 **Hildebert Hutt**, *Bad Vigaun medical health centre*
 
-**Andrea Rainer Cerovska**, Lead work package 6: Industrial utilization, *Loidl Consulting & IT Services GmbH*
-
-**Herwig Loidl**, *Loidl Consulting & IT Services GmbH*
-
-**Stefan Leipold**, *Loidl Consulting & IT Services GmbH*
-
 **Simon Wörgötter**, Research and development, *MOTUM GmbH & Co KG*
 
 **Julia Scharbert**, Research and development, *MOTUM GmbH & Co KG*

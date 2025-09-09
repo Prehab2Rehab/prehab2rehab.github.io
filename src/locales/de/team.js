@@ -70,6 +70,16 @@ const team = {
       { name: "Josef Sturm", role: "", image: "Josef-Sturm.jpg", rights: "" }
     ]
   },
+  LOIDL: {
+    name: "Loidl Consulting & IT Services GmbH",
+    imgkey: "10-LOIDL",
+    people: [
+      { name: "Andrea Rainer Cerovská", role: "Leitung Arbeitspaket 6: Industrielle Verwertung", image: "Andrea-Rainer-Cerovska.png", rights: "" },
+      { name: "Herwig Loidl", role: "", image: "Herwig-Loidl.png", rights: "" },
+      { name: "Stefan Leipold", role: "", image: "Stefan-Leipold.png", rights: "" }
+
+    ]
+  },
   RL: {
     name: "RedLink GmbH",
     imgkey: "11-RL",
