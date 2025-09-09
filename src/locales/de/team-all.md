@@ -24,12 +24,6 @@
 
 **Hildebert Hutt**, *Medizinisches Zentrum Bad Vigaun*
 
-**Andrea Rainer Cerovska**, Leitung Arbeitspaket 6: Industrielle Verwertung, *Loidl Consulting & IT Services GmbH*
-
-**Herwig Loidl**, *Loidl Consulting & IT Services GmbH*
-
-**Stefan Leipold**, *Loidl Consulting & IT Services GmbH*
-
 **Simon Wörgötter**, Forschung und Entwicklung, *MOTUM GmbH & Co KG*
 
 **Julia Scharbert**, Forschung und Entwicklung, *MOTUM GmbH & Co KG*

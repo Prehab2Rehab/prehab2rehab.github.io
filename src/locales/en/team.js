@@ -55,6 +55,14 @@ const team = {
       { role: "" }
     ]
   },
+  LOIDL:
+  {
+    people: [
+      { role: "Lead work package 6: Industrial utilization" },
+      { role: "" },
+      { role: "" }
+    ]
+  },
   RL: {
     people: [
       { role: "" },
