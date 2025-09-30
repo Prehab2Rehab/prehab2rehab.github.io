@@ -7,7 +7,7 @@ import journeyMD from './journey.md?raw';
 import impressumMD from './impressum.md?raw';
 import privacyPolicyMD from './privacyPolicy.md?raw';
 import teamJS from "./team.js";
-import articlesJS from './articles.js';
+import newsJS from './news.js';
 
 const en = {
   menu: {
@@ -58,7 +58,7 @@ const en = {
   },
   team: teamJS,
   news: {
-    articles: articlesJS,
+    articles: newsJS,
     more: "Read more on LinkedIn",
     video: "Watch video"
   },
