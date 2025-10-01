@@ -6,8 +6,8 @@ import './About.css';
 const About = () => {
 
     const { t, i18n } = useTranslation();
-
-    const journeyImage = i18n.language === 'de' ? '/journey-de.svg' : '/journey-en.svg';
+    
+    const journeyImage = i18n.resolvedLanguage === 'de' ? '/journey-de.svg' : '/journey-en.svg';
 
     return (
         <section id="about" className="wrapper">

@@ -11,18 +11,23 @@ const resources = {
 };
 
 i18n
-  .use(LanguageDetector) // auto-detect language
-  .use(initReactI18next) // connect to react-i18next
+  .use(LanguageDetector)
+  .use(initReactI18next) 
   .init({
     resources,
     fallbackLng: 'de',
+    debug: false,
     detection: {
       order: ['localStorage', 'navigator'],
       caches: ['localStorage'],
+      // normalize browser language codes like 'de-DE' -> 'de'
+      lookupLocalStorage: 'i18nextLng',
+      checkWhitelist: true,
     },
     interpolation: {
       escapeValue: false,
     },
+    initImmediate: false,
   });
 
 export default i18n;
