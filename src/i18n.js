@@ -20,9 +20,7 @@ i18n
     detection: {
       order: ['localStorage', 'navigator'],
       caches: ['localStorage'],
-      // normalize browser language codes like 'de-DE' -> 'de'
-      lookupLocalStorage: 'i18nextLng',
-      checkWhitelist: true,
+      lookupLocalStorage: 'i18nextLng'
     },
     interpolation: {
       escapeValue: false,
