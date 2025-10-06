@@ -1,6 +1,13 @@
 const articles = [
-    {
-    "headline": "💬 Perioperative Care",
+  {
+    "headline": "🛣️ Patient pathways developed",
+    "date": "06.10.2025",
+    "image": "5-workshop.jpg",
+    "text": "Based on interviews with patients and healthcare professionals, we developed patient profiles, patient pathways, and a technology mapping. In a workshop, we discussed the results with our project partners – an important milestone that lays the foundation for the next steps of the project.",
+    "linkedinUrl": "https://www.linkedin.com/posts/prehab2rehab_prehab2rehab-digitalhealth-scienceforsociety-activity-7380881030368378880-YCFf?utm_source=share&utm_medium=member_desktop&rcm=ACoAACKHRlIB76ol-DAzLj-F-uTCK5_r6CzFhaghttps://www.linkedin.com/posts/prehab2rehab_prehab2rehab-digitalhealth-scienceforsociety-activity-7380881030368378880-YCFf?utm_source=share&utm_medium=member_desktop&rcm=ACoAACKHRlIB76ol-DAzLj-F-uTCK5_r6CzFhag"
+  },
+  {
+    "headline": "💬 Perioperative care",
     "date": "30.09.2025",
     "image": "4-perioperative-care.JPG",
     "text": "Last week, we had the opportunity to present our project at the evening event “Perioperative Care: From Prehabilitation to Recovery” at MedUni Vienna. The event offered exciting insights into cutting-edge developments in perioperative medicine – from preoperative preparation, through innovations in the operating room, to postoperative care.",
@@ -16,7 +23,7 @@ const articles = [
 
   },
   {
-    "headline": "🏥 Exploring the Patient Pathway",
+    "headline": "🏥 Exploring the patient pathway",
     "date": "04.08.2025",
     "image": "2-klink-erstbesuche.jpg",
     "text": "In July, our focus was on analyzing the patient pathway. The goal was to identify key interfaces in patient care and to gain a better understanding of practical processes. Visits to the MedUni Vienna, the SALK, and the Medical Center Bad Vigaun helped us better understand the patient pathways in our three use cases.",
