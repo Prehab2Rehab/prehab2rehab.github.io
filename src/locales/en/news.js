@@ -17,7 +17,7 @@ const articles = [
     "headline": "🎥 What is the project about?",
     "date": "11.08.2025",
     "image": "3-video-WP1.jpeg",
-    "text": "Our project manager Jan Smeddinck gives exciting insights into the research project Rehab2Rehab: what the project is about, why it is so important to optimize the care pathway, and how we are working on it together – take a look now! 👇",
+    "text": "Our project manager Jan Smeddinck gives exciting insights into the research project Prehab2Rehab: what the project is about, why it is so important to optimize the care pathway, and how we are working on it together – take a look now! 👇",
     "linkedinUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7360595872402800640",
     "videoUrl": "https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7359883428516835328?compact=1"
 

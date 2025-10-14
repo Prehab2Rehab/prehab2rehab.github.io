@@ -17,7 +17,7 @@ const articles = [
     "headline": "🎥 Worum geht es im Projekt?",
     "date": "11.08.2025",
     "image": "3-video-WP1.jpeg",
-    "text": "Unsere Projektleitung Jan Smeddinck gibt spannende Einblicke in das Forschungsprojekt Rehab2Rehab: Worum es im Projekt geht, warum es so wichtig ist, den Versorgungspfad zu optimieren, und wie wir gemeinsam daran arbeiten – jetzt reinschauen! 👇",
+    "text": "Unsere Projektleitung Jan Smeddinck gibt spannende Einblicke in das Forschungsprojekt Prehab2Rehab: Worum es im Projekt geht, warum es so wichtig ist, den Versorgungspfad zu optimieren, und wie wir gemeinsam daran arbeiten – jetzt reinschauen! 👇",
     "linkedinUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7360595872402800640",
     "videoUrl": "https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7359883428516835328?compact=1"
 
