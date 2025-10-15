@@ -1,10 +1,18 @@
 const articles = [
+    {
+    "headline": "👨‍💻 What is done in work package 3?",
+    "date": "15.10.2025",
+    "image": "6-video-WP3.png",
+    "text": "Oliver Jung gives exciting insights: What are the goals of work package 3, how is the technology mix coming together – and how does WP3 connect with the stakeholder engagement in WP2 and the feasibility studies in WP4? Check it out! 👇",
+    "linkedinUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7384137435485663232",
+    "videoUrl": "https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7384137354149605376?compact=1"
+  },
   {
     "headline": "🛣️ Patient pathways developed",
     "date": "06.10.2025",
     "image": "5-workshop.jpg",
     "text": "Based on interviews with patients and healthcare professionals, we developed patient profiles, patient pathways, and a technology mapping. In a workshop, we discussed the results with our project partners – an important milestone that lays the foundation for the next steps of the project.",
-    "linkedinUrl": "https://www.linkedin.com/posts/prehab2rehab_prehab2rehab-digitalhealth-scienceforsociety-activity-7380881030368378880-YCFf?utm_source=share&utm_medium=member_desktop&rcm=ACoAACKHRlIB76ol-DAzLj-F-uTCK5_r6CzFhaghttps://www.linkedin.com/posts/prehab2rehab_prehab2rehab-digitalhealth-scienceforsociety-activity-7380881030368378880-YCFf?utm_source=share&utm_medium=member_desktop&rcm=ACoAACKHRlIB76ol-DAzLj-F-uTCK5_r6CzFhag"
+    "linkedinUrl": "https://www.linkedin.com/posts/prehab2rehab_prehab2rehab-digitalhealth-scienceforsociety-activity-7380881030368378880-YCFf?utm_source=share&utm_medium=member_desktop&rcm=ACoAACKHRlIB76ol-DAzLj-F-uTCK5_r6CzFhag"
   },
   {
     "headline": "💬 Perioperative care",
