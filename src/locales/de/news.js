@@ -1,10 +1,18 @@
 const articles = [
   {
+    "headline": "👨‍💻 Was passiert in Arbeitspaket 3?",
+    "date": "15.10.2025",
+    "image": "6-video-WP3.png",
+    "text": "Oliver Jung gibt spannende Einblicke: Was sind die Ziele von Arbeitspaket 3, wie entsteht der Technologiemix – und wie knüpft AP3 an die Stakeholder-Einbindung aus AP2 sowie die Machbarkeitsstudien in AP4 an? Jetzt reinschauen! 👇",
+    "linkedinUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7384137435485663232",
+    "videoUrl": "https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7384137354149605376?compact=1"
+  },
+  {
     "headline": "🛣️ Patient:innenpfade entwickelt",
     "date": "06.10.2025",
     "image": "5-workshop.jpg",
     "text": "Auf Basis von Interviews mit Patient:innen und Gesundheitspersonal haben wir Patient:innenprofile, Patient:innenpfade sowie ein Technologie-Mapping entwickelt. In einem Workshop tauschten wir uns mit unseren Projektpartner:innen über die Ergebnisse aus – ein wichtiger Meilenstein, der den Grundstein für die nächsten Projektschritte legt.",
-    "linkedinUrl": "https://www.linkedin.com/posts/prehab2rehab_prehab2rehab-digitalhealth-scienceforsociety-activity-7380881030368378880-YCFf?utm_source=share&utm_medium=member_desktop&rcm=ACoAACKHRlIB76ol-DAzLj-F-uTCK5_r6CzFhaghttps://www.linkedin.com/posts/prehab2rehab_prehab2rehab-digitalhealth-scienceforsociety-activity-7380881030368378880-YCFf?utm_source=share&utm_medium=member_desktop&rcm=ACoAACKHRlIB76ol-DAzLj-F-uTCK5_r6CzFhag"
+    "linkedinUrl": "https://www.linkedin.com/posts/prehab2rehab_prehab2rehab-digitalhealth-scienceforsociety-activity-7380881030368378880-YCFf?utm_source=share&utm_medium=member_desktop&rcm=ACoAACKHRlIB76ol-DAzLj-F-uTCK5_r6CzFhag"
   },
   {
     "headline": "💬 Perioperative Care",
