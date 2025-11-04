@@ -1,4 +1,11 @@
 const articles = [
+   {
+    "headline": "🤝 OIS zam: Forum 2025",
+    "date": "04.11.2025",
+    "image": "7-OISzam.JPG",
+    "text": "Wir freuen uns, dass wir Prehab2Rehab beim Forum präsentieren durften. Zudem konnten wir viele spannende Projekte und engagierte Forschende kennenlernen sowie neue Ansätze entdecken, um Patient:innen aktiv in die Gesundheitsforschung einzubeziehen. Der Austausch von Ideen und Erfahrungen war unglaublich bereichernd und motivierend! 💡",
+    "linkedinUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7391423009074352128",
+  },
   {
     "headline": "👨‍💻 Was passiert in Arbeitspaket 3?",
     "date": "15.10.2025",

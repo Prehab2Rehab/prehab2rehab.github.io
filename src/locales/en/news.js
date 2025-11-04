@@ -1,5 +1,12 @@
 const articles = [
-    {
+  {
+    "headline": "🤝 OIS zam: Forum 2025",
+    "date": "04.11.2025",
+    "image": "7-OISzam.JPG",
+    "text": "We’re excited to have had the opportunity to present Prehab2Rehab at the forum. We also got to learn about many exciting projects, met dedicated researchers and discovered new ways to actively involve patients in health research. The exchange of ideas and experiences was incredibly enriching and motivating! 💡",
+    "linkedinUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7391423009074352128",
+  },
+  {
     "headline": "👨‍💻 What is done in work package 3?",
     "date": "15.10.2025",
     "image": "6-video-WP3.png",
