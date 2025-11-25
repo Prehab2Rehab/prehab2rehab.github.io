@@ -8,6 +8,10 @@
 
 **Andreas Zuckermann**, *Medical University of Vienna Institute for Outcomes Research*
 
+**Valentina Schmolik**, *Medical University of Vienna Institute for Outcomes Research*
+
+**Valentin Ritschl**, *Medical University of Vienna Institute for Outcomes Research*
+
 **Oliver Jung**, Lead work package 3: Technological development, *Salzburg Research Forschungsgesellschaft*
 
 **Rene Baumgartner**, Research and development, *Salzburg Research Forschungsgesellschaft*

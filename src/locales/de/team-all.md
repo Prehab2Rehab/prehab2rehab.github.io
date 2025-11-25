@@ -8,6 +8,10 @@
 
 **Andreas Zuckermann**, *Medizinische Universität Wien Institut für Outcomes Research*
 
+**Valentina Schmolik**, *Medizinische Universität Wien Institut für Outcomes Research*
+
+**Valentin Ritschl**, *Medizinische Universität Wien Institut für Outcomes Research*
+
 **Oliver Jung**, Leitung Arbeitspaket 3: Technologische Entwicklung, *Salzburg Research Forschungsgesellschaft*
 
 **Rene Baumgartner**, Forschung und Entwicklung, *Salzburg Research Forschungsgesellschaft*
