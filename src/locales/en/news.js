@@ -1,5 +1,12 @@
 const articles = [
   {
+    "headline": "💬 Symposium for Rehabilitation Research",
+    "date": "27.11.2025",
+    "image": "8-reha-symposium.jpg",
+    "text": "Last week, Gunnar Treff presented Prehab2Rehab at the 2nd Salzburg Symposium for Rehabilitation Research. His presentation focused on the feasibility studies and their multimodal interventions—particularly those related to exercise science—as well as their implementation in the three use cases. (📸 Bryan Reinhart)",
+    "linkedinUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7399720102247665666",
+  },
+  {
     "headline": "🤝 OIS zam: Forum 2025",
     "date": "04.11.2025",
     "image": "7-OISzam.JPG",
