@@ -1,5 +1,12 @@
 const articles = [
-   {
+  {
+    "headline": "💬 Symposium für Rehabilitationsforschung",
+    "date": "27.11.2025",
+    "image": "8-reha-symposium.jpg",
+    "text": "Letzte Woche präsentierte Gunnar Treff Prehab2Rehab beim 2. Salzburger Symposium für Rehabilitationsforschung. Der Fokus seiner Präsentation lag auf den Machbarkeitsstudien und ihren multimodalen, insbesondere trainingswissenschaftlichen Interventionen sowie deren Umsetzung in den drei Anwendungsfällen. (📸 Bryan Reinhart)",
+    "linkedinUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7399720102247665666",
+  },
+  {
     "headline": "🤝 OIS zam: Forum 2025",
     "date": "04.11.2025",
     "image": "7-OISzam.JPG",
