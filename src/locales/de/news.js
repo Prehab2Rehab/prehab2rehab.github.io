@@ -1,5 +1,13 @@
 const articles = [
   {
+    "headline": "👥 Stakeholder-Einbindung",
+    "date": "03.12.2025",
+    "image": "9-video-WP2.png",
+    "text": "Um den Weg von Patient*innen von der Diagnose bis zurück in den Alltag nachzuvollziehen, haben wir mit Betroffenen, Therapeut*innen und Ärzt*innen gesprochen. 👉 Im Video erfahrt ihr mehr über unser Vorgehen und die wichtigsten Erkenntnisse.",
+    "linkedinUrl": "https://www.linkedin.com/posts/prehab2rehab_prehab2rehab-digitalhealth-scienceforsociety-activity-7401614875300466688-5E3M?utm_source=share&utm_medium=member_desktop&rcm=ACoAACKHRlIB76ol-DAzLj-F-uTCK5_r6CzFhag",
+    "videoUrl": "https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7401614768727306240?compact=1"
+  },
+  {
     "headline": "💬 Symposium für Rehabilitationsforschung",
     "date": "27.11.2025",
     "image": "8-reha-symposium.jpg",
