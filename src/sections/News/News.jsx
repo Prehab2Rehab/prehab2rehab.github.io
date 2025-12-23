@@ -34,7 +34,7 @@ const News = () => {
     const closeVideo = () => setActiveVideo(null);
 
     const settings = {
-        dots: true,
+        dots: false,
         infinite: true,
         speed: 500,
         slidesToShow,
