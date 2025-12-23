@@ -1,5 +1,13 @@
 const articles = [
   {
+    "headline": "⚖️ Evaluierung der Prähabilitationskonzepte",
+    "date": "23.12.2025",
+    "image": "10-video-WP4.png",
+    "text": "Individuell angepasst an unsere drei Anwendungsfälle haben wir unterschiedliche Prähabilitationskonzepte entwickelt. Doch wie evaluieren wir, ob diese Konzepte in der Praxis umsetzbar sind? Jetzt reinschauen! 👇",
+    "linkedinUrl": "https://www.linkedin.com/posts/prehab2rehab_wie-evaluieren-wir-die-umsetzbarkeit-unserer-activity-7409185388155826176-wBtR?utm_source=share&utm_medium=member_desktop&rcm=ACoAACKHRlIB76ol-DAzLj-F-uTCK5_r6CzFhag",
+    "videoUrl": "https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7409185227442683905?compact=1"
+  },
+  {
     "headline": "👥 Stakeholder-Einbindung",
     "date": "03.12.2025",
     "image": "9-video-WP2.png",

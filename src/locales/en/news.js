@@ -1,5 +1,13 @@
 const articles = [
   {
+    "headline": "⚖️ Evaluation of Prehabilitation Concepts",
+    "date": "23.12.2025",
+    "image": "10-video-WP4.png",
+    "text": "Individually tailored to our three use cases, we have developed different prehabilitation concepts. But how do we evaluate whether these concepts are feasible in practice? Take a look now! 👇",
+    "linkedinUrl": "https://www.linkedin.com/posts/prehab2rehab_wie-evaluieren-wir-die-umsetzbarkeit-unserer-activity-7409185388155826176-wBtR?utm_source=share&utm_medium=member_desktop&rcm=ACoAACKHRlIB76ol-DAzLj-F-uTCK5_r6CzFhag",
+    "videoUrl": "https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7409185227442683905?compact=1"
+  },
+  {
     "headline": "👥 Stakeholder involvement",
     "date": "03.12.2025",
     "image": "9-video-WP2.png",
