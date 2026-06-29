@@ -1,5 +1,12 @@
 const articles = [
   {
+    "headline": "🤝 Projektgremium in Salzburg",
+    "date": "29.01.2026",
+    "image": "11-projektgremiums-januar.jpg",
+    "text": "Im Januar traf sich das erweiterte Projektgremium in Salzburg, um die nächsten Schritte für die Machbarkeitsstudien zu besprechen. Im Fokus standen die Abstimmung im Konsortium sowie Updates zur Umsetzung der drei Anwendungsfälle. 👉 Mehr dazu im Post!",
+    "linkedinUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7430231102289633281",
+  },
+  {
     "headline": "⚖️ Evaluierung der Prähabilitationskonzepte",
     "date": "23.12.2025",
     "image": "10-video-WP4.png",
