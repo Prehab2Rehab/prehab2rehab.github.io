@@ -1,7 +1,7 @@
 const articles = [
   {
     "headline": "🎉 Ein Jahr Prehab2Rehab",
-    "date": “18.05.2026",
+    "date": "18.05.2026",
     "image": "13-1Jahr-P2R.png",
     "text": "Ein Jahr Prehab2Rehab, und was für eines! Unser Projektleiter Jan David Smeddinck nimmt euch mit durch das erste Jahr: Was haben wir erreicht, und was kommt als Nächstes? 👇",
     "linkedinUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7462154456646803458",
