@@ -1,5 +1,12 @@
 const articles = [
   {
+    "headline": "⚡Innovative Tech in Action",
+    "date": "24.03.2026",
+    "image": "12-motum-stappone-badvigaun.png",
+    "text": "The feasibility studies are about to begin, and behind the scenes we're working hard to get our technologies ready for all three use cases. For example, MOTUM and stappone are preparing innovative technology for knee replacement surgery together with Bad Vigaun.",
+    "linkedinUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7442252178423013376",
+  },
+  {
     "headline": "🤝 Project Meeting in Salzburg",
     "date": "29.01.2026",
     "image": "11-projektgremiums-januar.jpg",
