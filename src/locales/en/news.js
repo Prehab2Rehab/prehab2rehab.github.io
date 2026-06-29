@@ -1,5 +1,12 @@
 const articles = [
   {
+    "headline": "🤝 Project Meeting in Salzburg",
+    "date": "29.01.2026",
+    "image": "11-projektgremiums-januar.jpg",
+    "text": "In January, the expanded project board met in Salzburg to discuss next steps for the feasibility studies. The focus was on consortium alignment and updates on implementing the three use cases. 👉 More in the post!",
+    "linkedinUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7430231102289633281",
+  },
+  {
     "headline": "⚖️ Evaluation of Prehabilitation Concepts",
     "date": "23.12.2025",
     "image": "10-video-WP4.png",
