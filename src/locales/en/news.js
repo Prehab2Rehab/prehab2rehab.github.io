@@ -1,6 +1,6 @@
 const articles = [
   {
-    "headline": "🎉 Ein Jahr Prehab2Rehab",
+    "headline": "🎉 One year of Prehab2Rehab",
     "date": "18.05.2026",
     "image": "13-1Jahr-P2R.png",
     "text": "One year of Prehab2Rehab, and what a year it's been! Our project lead Jan David Smeddinck takes you through the first year: what have we achieved, and what's next? 👇",
