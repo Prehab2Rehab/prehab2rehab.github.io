@@ -1,5 +1,12 @@
 const articles = [
   {
+    "headline": "⚡Innovative Technologien im Einsatz",
+    "date": "24.03.2026",
+    "image": "12-motum-stappone-badvigaun.png",
+    "text": "Bald starten die Machbarkeitsstudien, und im Hintergrund arbeiten wir mit Hochdruck daran, unsere Technologien für die drei Use Cases einsatzbereit zu machen. Zum Beispiel bereiten MOTUM und stappone gemeinsam mit Bad Vigaun innovative Technologien für Kniegelenksersatz-Operationen vor.",
+    "linkedinUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7442252178423013376",
+  },
+  {
     "headline": "🤝 Projektgremium in Salzburg",
     "date": "29.01.2026",
     "image": "11-projektgremiums-januar.jpg",
