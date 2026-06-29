@@ -1,5 +1,13 @@
 const articles = [
   {
+    "headline": "🎉 Ein Jahr Prehab2Rehab",
+    "date": "18.05.2026",
+    "image": "13-1Jahr-P2R.png",
+    "text": "One year of Prehab2Rehab, and what a year it's been! Our project lead Jan David Smeddinck takes you through the first year: what have we achieved, and what's next? 👇",
+    "linkedinUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7462154456646803458",
+    "videoUrl": "https://youtu.be/LMZ1fJHKrcc"
+  },
+  {
     "headline": "⚡Innovative Tech in Action",
     "date": "24.03.2026",
     "image": "12-motum-stappone-badvigaun.png",
