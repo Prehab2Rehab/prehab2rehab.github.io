@@ -23,8 +23,8 @@ const team = {
       { name: "Vincent Grote", role: "", image: "Vincent-Grote.jpg", rights: "© LBG / Nachtschatt" },
       { name: "Stefan Löfler", role: "", image: "Stefan-Loefler.jpg", rights: "© LBG / Nachtschatt" },
       { name: "Ferdinand Prüfer", role: "", image: "Ferdinand-Pruefer.jpg", rights: "© Julia Dragosits" },
-      { name: "Chiara Vetrano", role: "", image: "Chiara-Vetrano.jpg", rights: "© Vetrano" }
-      { name: "Spela Matko", role: "", image: "Spela-Matko.jpg", rights: "© Julia Dragosits" }
+      { name: "Chiara Vetrano", role: "", image: "Chiara-Vetrano.jpg", rights: "© Vetrano" },
+      { name: "Spela Matko", role: "", image: "Spela-Matko.jpg", rights: "© Julia Dragosits" },
       { name: "Stefanie Hochenwarter", role: "", image: "Stefanie-Hochenwarter.jpeg", rights: "" }
     ]
   },
