@@ -1,4 +1,13 @@
 const articles = [
+  
+  {
+   "headline": "📋 Studienstart in Bad Vigaun",
+   "date": "30.06.2026",
+   "image": "14-BV-study-started.jpg",
+   "text": "Ein wichtiger Meilenstein wurde erreicht: Die Machbarkeitsstudie am Medizinischen Zentrum Bad Vigaun hat offiziell begonnen! Die ersten Patient:innen erleben bereits die integrierte, digital unterstützte Prähabilitation vor ihrer Kniegelenksersatz-Operation. Wir sind gespannt, wie es weitergeht.  Mehr dazu im Post!",
+   "linkedinUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7477980967522086912",
+   "videoUrl": ""
+  },
   {
     "headline": "🎉 Ein Jahr Prehab2Rehab",
     "date": "18.05.2026",
