@@ -1,5 +1,13 @@
 const articles = [
   {
+   "headline": "📋 Study Start in Bad Vigaun",
+   "date": "30.06.2026",
+   "image": "14-BV-study-started.jpg",
+   "text": "An important milestone has been reached: the feasibility study at Medizinisches Zentrum Bad Vigaun has officially started! The first patients are already experiencing integrated, digitally supported prehabilitation ahead of their knee replacement surgery. We are looking forward to seeing how the study unfolds. More in the post!",
+   "linkedinUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7477980967522086912",
+   "videoUrl": ""
+  },
+  {
     "headline": "🎉 One year of Prehab2Rehab",
     "date": "18.05.2026",
     "image": "13-1Jahr-P2R.png",
