@@ -1,6 +1,14 @@
 const articles = [
   
   {
+    "headline": "Prehab2Rehab auf der IH'26 in Porto 🇵🇹",
+    "date": "07.07.2026",
+    "image": "15-IH26.jpeg",
+    "text": "Diesen Monat haben wir erste Ergebnisse unseres Projekts auf der inaugural ACM Interactive Health Conference in Porto präsentiert, einer neuen Konferenz an der Schnittstelle von HCI und Gesundheit. In unserem Poster standen Patientenbedürfnisse und Chancen für die digitale Gesundheitsversorgung im Mittelpunkt. Toller Austausch mit anderen Forschenden und inspirierende Synergien rund um das Thema Prähabilitation. 👇 Mehr dazu im Post!",
+    "linkedinUrl": "https://www.linkedin.com/posts/prehab2rehab-acminteractivehealth-ih2026-share-7486017481103491072-U1ts/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFxpF20BJbRuUnXUz573ydpDg2khZbZXzD8",
+    "videoUrl": ""
+  },
+  {
    "headline": "📋 Studienstart in Bad Vigaun",
    "date": "30.06.2026",
    "image": "14-BV-study-started.jpg",
