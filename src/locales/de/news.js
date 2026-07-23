@@ -1,7 +1,7 @@
 const articles = [
   
   {
-    "headline": "Prehab2Rehab auf der IH'26 🇵🇹",
+    "headline": "🇵🇹 Prehab2Rehab auf der IH'26",
     "date": "07.07.2026",
     "image": "15-IH26.jpeg",
     "text": "Diesen Monat haben wir erste Ergebnisse unseres Projekts auf der ACM Interactive Health Conference in Porto präsentiert, einer neuen Konferenz an der Schnittstelle von HCI und Gesundheit. In unserem Poster standen Patientenbedürfnisse und Chancen für die digitale Gesundheitsversorgung im Mittelpunkt. Toller Austausch mit anderen Forschenden und inspirierende Synergien rund um das Thema Prähabilitation. 👇 Mehr dazu im Post!",
