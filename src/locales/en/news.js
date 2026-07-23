@@ -1,9 +1,9 @@
 const articles = [
   {
-    "headline": "Prehab2Rehab at IH '26 in Porto 🇵🇹",
+    "headline": "🇵🇹 Prehab2Rehab at IH '26 in Porto",
     "date": "07.07.2026",
     "image": "15-IH26.jpeg",
-    "text": "This month we presented first outcomes of our project at the inaugural ACM Interactive Health Conference in Porto, a new conference at the intersection of HCI and Health. Our poster focused on patient needs and opportunities for digital health. Great exchanges with fellow researchers and inspiring synergies around the topic of prehabilitation. 👇 More in the post!",
+    "text": "This month we presented first outcomes of our project at the inaugural ACM Interactive Health Conference in Porto, a new conference at the intersection of HCI and Health. Our poster focused on patient needs and opportunities for digital health. Great exchanges with fellow researchers and inspiring synergies around the topic of prehabilitation. More in the post!👇",
     "linkedinUrl": "https://www.linkedin.com/posts/prehab2rehab-acminteractivehealth-ih2026-share-7486017481103491072-U1ts/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFxpF20BJbRuUnXUz573ydpDg2khZbZXzD8",
     "videoUrl": ""
   },
