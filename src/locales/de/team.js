@@ -11,7 +11,7 @@ const team = {
       { name: "Daniela Wurhofer", role: "Leitung Arbeitspaket 2: Stakeholdereinbindung", image: "Daniela-Wurhofer.jpg", rights: "" },
       { name: "Andreas Stainer-Hochgatterer", role: "Projektadministration", image: "Andreas-Stainer-Hochgatterer.jpg", rights: "" },
       { name: "David Haag", role: "Forschung und Entwicklung", image: "David-Haag.jpg", rights: "" },
-      { name: "Daria Kolosovskaia", role: "Administration, Kommunikation", image: "Daria-Kolosovskaia.jpg", rights: "" },
+      { name: "Daria Kolosovskaia", role: "Forschung und Kommunikation", image: "Daria-Kolosovskaia-1.jpg", rights: "" },
       { name: "Eva-Maria Krah", role: "Forschung und Entwicklung", image: "Eva-Maria-Krah.jpeg", rights: "" },
 
     ]
