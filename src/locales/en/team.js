@@ -9,7 +9,7 @@ const team = {
       { role: "Lead work package 2: Stakeholder involvement" },
       { role: "Project administration" },
       { role: "Research and development" },
-      { role: "Administration, communication" },
+      { role: "Research and communication" },
       { role: "Research and development" },
     ]
   },
