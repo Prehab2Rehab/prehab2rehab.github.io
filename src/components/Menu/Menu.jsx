@@ -32,7 +32,7 @@ function Menu() {
     }
   };
 
-  const sections = ['about', 'usecases', 'partner', 'news', 'contact'];
+  const sections = ['about', 'usecases', 'partner', 'findings', 'news', 'contact'];
 
   return (
     <nav className="menu">
