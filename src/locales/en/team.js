@@ -5,12 +5,12 @@ const team = {
   LBI_DHP: {
     name: "LBI for Digital Health and Prevention",
     people: [
-      { role: "Project lead" },
-      { role: "Lead work package 2: Stakeholder involvement" },
+      { role: "Project lead and lead work package 2: Stakeholder involvement" },
       { role: "Project administration" },
-      { role: "Research and development" },
       { role: "Research and communication" },
       { role: "Research and development" },
+      { role: "Research and development" },
+      { role: "Consultant" },
     ]
   },
   LBI_RR: {
