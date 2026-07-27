@@ -22,7 +22,7 @@
 
 **Christoph Schranz**, Forschung und Entwicklung, *Salzburg Research Forschungsgesellschaft*
 
-**Stefan Löb**, *Gemeinnützige Salzburger Landeskliniken*
+**Stefan Löb**, *Gemeinnützige Salzburger Landeskliniken Betriebsgesellschaft mbH*
 
 **Hildebert Hutt**, *Medizinisches Zentrum Bad Vigaun*
 
@@ -37,3 +37,20 @@
 **Peter Krimmer**, *stAPPtronics GmbH*
 
 **Susanne Bruckner**, *stAPPtronics GmbH*
+
+## Expertenbeirat
+
+**Daniel Dick**, *Gesundheit Österreich GmbH*
+
+**Bruno Mähr**, *Versicherungsanstalt öffentlich Bediensteter, Eisenbahnen und Bergbau*
+
+**Rainald Seitelberger**, *Universitätsklinik für Herzchirurgie, Gefäßchirurgie und endovaskuläre Chirurgie der Gemeinnützige Salzburger Landeskliniken Betriebsgesellschaft mbH*
+
+**Carolin Steinmetz**, *Universitätsmedizin Göttingen*
+
+**Nina Tamerl**, *Roodie Health GmbH*
+
+**Angelika Widhalm**, *Bundesverband Selbsthilfe Österreich*
+
+**Joachim Wiskemann**, *Nationales Centrum für Tumorerkrankungen Heidelberg*
+

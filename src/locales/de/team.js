@@ -48,7 +48,7 @@ const team = {
     ]
   },
   SALK: {
-    name: "Gemeinnützige Salzburger Landeskliniken",
+    name: "Gemeinnützige Salzburger Landeskliniken Betriebsgesellschaft mbH",
     imgkey: "07-SALK",
     people: [
       { name: "Clemens Schmutzhart", role: "", image: "Clemens-Schmutzhart.jpg", rights: "" },
