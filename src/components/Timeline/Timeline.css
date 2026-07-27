@@ -29,7 +29,7 @@
   top: 0.16rem; 
   width: 12px;
   height: 12px;
-  background-color: #239ea5;
+  background-color: #0077BB;
   border-radius: 50%;
   border: 2px solid white;
 }
@@ -81,5 +81,5 @@
 
 .timeline a:hover {
   text-decoration: underline;
-    color: #916280;
+    color: #239ea5;
 }
