@@ -10,7 +10,7 @@ const team = {
       { role: "Research and communication" },
       { role: "Research and development" },
       { role: "Research and development" },
-      { role: "Consultant" },
+      { role: "Advisor" },
     ]
   },
   LBI_RR: {
