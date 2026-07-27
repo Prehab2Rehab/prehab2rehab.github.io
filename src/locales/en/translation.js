@@ -6,6 +6,8 @@ import partnerMD from './partner.md?raw';
 import journeyMD from './journey.md?raw';
 import impressumMD from './impressum.md?raw';
 import privacyPolicyMD from './privacyPolicy.md?raw';
+import findingsJS from './findings.js';
+import findingsMD from './findings.md?raw';
 import teamJS from "./team.js";
 import newsJS from './news.js';
 
@@ -16,6 +18,7 @@ const en = {
     facts: "Project Facts",
     usecases: "Use Cases",
     partner: "Project Partners",
+    findings: "Findings",
     news: "News",
     contact: "Contact"
   },
@@ -57,6 +60,7 @@ const en = {
     industry: "Industry"
   },
   team: teamJS,
+  findings: { desc: findingsMD, list: findingsJS, publications: "Publication(s):" },
   news: {
     articles: newsJS,
     more: "Read more on LinkedIn",

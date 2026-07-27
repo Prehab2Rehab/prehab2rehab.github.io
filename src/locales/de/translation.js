@@ -6,6 +6,8 @@ import partnerMD from './partner.md?raw';
 import journeyMD from './journey.md?raw'
 import impressumMD from './impressum.md?raw'
 import privacyPolicyMD from './privacyPolicy.md?raw'
+import findingsJS from './findings.js';
+import findingsMD from './findings.md?raw';
 import teamJS from "./team.js";
 import newsJS from './news.js';
 
@@ -16,6 +18,7 @@ const de = {
     facts: "Projektfakten",
     usecases: "Anwendungsfälle",
     partner: "Projektpartner",
+    findings: "Ergebnisse",
     news: "Neuigkeiten",
     contact: "Kontakt"
   },
@@ -66,6 +69,7 @@ const de = {
     email: "E-Mail",
     linkedIn: "Prehab2Rehab bei LinkedIn"
   },
+  findings: { desc: findingsMD, list: findingsJS, publications: "Publikation(en):" },
   news: {
     articles: newsJS,
     more: "Mehr auf LinkedIn lesen",

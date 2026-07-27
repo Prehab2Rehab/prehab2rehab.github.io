@@ -7,12 +7,13 @@ const team = {
     name: "LBI für Digitale Gesundheit und Prävention",
     imgkey: "01-LBI-DHP",
     people: [
-      { name: "Jan Smeddinck", role: "Projektleitung ", image: "Jan-Smeddinck.jpg", rights: "" },
-      { name: "Daniela Wurhofer", role: "Leitung Arbeitspaket 2: Stakeholdereinbindung", image: "Daniela-Wurhofer.jpg", rights: "" },
+      { name: "Daniela Wurhofer", role: "Projektleitung und Leitung Arbeitspaket 2: Stakeholdereinbindung", image: "Daniela-Wurhofer.jpg", rights: "" },
       { name: "Andreas Stainer-Hochgatterer", role: "Projektadministration", image: "Andreas-Stainer-Hochgatterer.jpg", rights: "" },
-      { name: "David Haag", role: "Forschung und Entwicklung", image: "David-Haag.jpg", rights: "" },
       { name: "Daria Kolosovskaia", role: "Forschung und Kommunikation", image: "Daria-Kolosovskaia-1.jpg", rights: "" },
       { name: "Eva-Maria Krah", role: "Forschung und Entwicklung", image: "Eva-Maria-Krah.jpeg", rights: "" },
+      { name: "David Haag", role: "Forschung und Entwicklung", image: "David-Haag.jpg", rights: "" },
+      { name: "Jan Smeddinck", role: "Beratende Funktion", image: "Jan-Smeddinck.jpg", rights: "" },
+
 
     ]
   },
@@ -42,7 +43,8 @@ const team = {
       { name: "Gunnar Treff", role: "Leitung Arbeitspaket 4: Machbarkeitsstudien", image: "Gunnar-Treff.jpg", rights: "" },
       { name: "Giorjines Boppré", role: "", image: "Giorjines-Boppre.jpeg", rights: "" },
       { name: "Fabian Leinauer", role: "", image: "Fabian-Leinauer.jpg", rights: "" },
-      { name: "Andrea Planatscher", role: "", image: "Andrea-Planatscher.jpg", rights: "" }
+      { name: "Chantal Gruber", role: "", image: "Chantal-Gruber.jpeg", rights: "" },
+      // { name: "Andrea Planatscher", role: "", image: "Andrea-Planatscher.jpg", rights: "" }
     ]
   },
   SALK: {
