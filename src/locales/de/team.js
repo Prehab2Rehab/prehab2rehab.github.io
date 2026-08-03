@@ -40,10 +40,10 @@ const team = {
     name: "Paracelsus Medizinische Privatuniversität",
     imgkey: "04-PMU",
     people: [
-      { name: "Gunnar Treff", role: "Leitung Arbeitspaket 4: Machbarkeitsstudien", image: "Gunnar-Treff.jpg", rights: "" },
-      { name: "Giorjines Boppré", role: "", image: "Giorjines-Boppre.jpeg", rights: "" },
+      { name: "Giorjines Boppré", role: "Leitung Arbeitspaket 4: Machbarkeitsstudien", image: "Giorjines-Boppre.jpeg", rights: "" },
       { name: "Fabian Leinauer", role: "", image: "Fabian-Leinauer.jpg", rights: "" },
       { name: "Chantal Gruber", role: "", image: "Chantal-Gruber.jpeg", rights: "" },
+      { name: "Gunnar Treff", role: "Beratende Funktion", image: "Gunnar-Treff.jpg", rights: "" },
       // { name: "Andrea Planatscher", role: "", image: "Andrea-Planatscher.jpg", rights: "" }
     ]
   },
@@ -52,7 +52,8 @@ const team = {
     imgkey: "07-SALK",
     people: [
       { name: "Clemens Schmutzhart", role: "", image: "Clemens-Schmutzhart.jpg", rights: "" },
-      { name: "Josef Niebauer", role: "", image: "Josef-Niebauer.jpg", rights: "" }
+      { name: "Josef Niebauer", role: "", image: "Josef-Niebauer.jpg", rights: "" },
+      { name: "Daniela Rohrmoser", role: "Leistungsdiagnostik, Trainingsbetreuung", image: "Daniela-Rohrmoser.jpg", rights: "" }
     ]
   },
   ALP: {

@@ -30,14 +30,15 @@ const team = {
       { role: "Lead work package 4: Feasibility studies" },
       { role: "" },
       { role: "" },
-      { role: "" },
+      { role: "Advisor" },
       // { role: "" }
     ]
   },
   SALK: {
     people: [
       { role: "" },
-      { role: "" }
+      { role: "" },
+      { role: "Performance diagnostics, training supervision" }
     ]
   },
   ALP: {
