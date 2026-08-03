@@ -37,7 +37,8 @@ const team = {
   SALK: {
     people: [
       { role: "" },
-      { role: "" }
+      { role: "" },
+      { role: "Performance diagnostics, training supervision" }
     ]
   },
   ALP: {
