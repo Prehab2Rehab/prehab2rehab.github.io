@@ -53,7 +53,8 @@ const team = {
     people: [
       { name: "Clemens Schmutzhart", role: "", image: "Clemens-Schmutzhart.jpg", rights: "" },
       { name: "Josef Niebauer", role: "", image: "Josef-Niebauer.jpg", rights: "" },
-      { name: "Daniela Rohrmoser", role: "Leistungsdiagnostik, Trainingsbetreuung", image: "Daniela-Rohrmoser.jpg", rights: "" }
+      { name: "Daniela Rohrmoser", role: "Leistungsdiagnostik, Trainingsbetreuung", image: "Daniela-Rohrmoser.jpg", rights: "" },
+      { name: "Emina Salihovic", role: "Pflegeexpertin für perioperative Abläufe", image: "Emina-Salihovic.jpg", rights: "© SALK" }
     ]
   },
   ALP: {

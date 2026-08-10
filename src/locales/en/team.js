@@ -38,7 +38,8 @@ const team = {
     people: [
       { role: "" },
       { role: "" },
-      { role: "Performance diagnostics, training supervision" }
+      { role: "Performance diagnostics, training supervision" },
+      { role: "Advanced Practice Nurse for perioperative care" }
     ]
   },
   ALP: {

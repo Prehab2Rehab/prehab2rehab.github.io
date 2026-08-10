@@ -24,8 +24,6 @@
 
 **Stefan Löb**, *Gemeinnützige Salzburger Landeskliniken Betriebsgesellschaft mbH*
 
-**Emina Salihovic**, *Gemeinnützige Salzburger Landeskliniken Betriebsgesellschaft mbH*
-
 **Hildebert Hutt**, *Medizinisches Zentrum Bad Vigaun*
 
 **Simon Wörgötter**, Forschung und Entwicklung, *MOTUM GmbH & Co KG*
