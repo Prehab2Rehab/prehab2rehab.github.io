@@ -1,0 +1,60 @@
+.eab-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+.eab-member {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 120px;
+    text-align: center;
+}
+
+.eab-icon-wrapper {
+    width: 60%;
+    display: flex;
+    justify-content: center;
+    overflow: hidden;
+    border-radius: 0.5rem;
+    aspect-ratio: 1 / 1;
+    position: relative;
+}
+
+.eab-info .name {
+    font-weight: bold;
+    margin-top: 0.5rem;
+}
+
+.eab-info .org {
+    font-style: italic;
+    font-size: 0.8rem;
+    margin: 0.2rem 0;
+}
+
+.eab-container h3 {
+    margin-bottom: 0;
+}
+
+.eab-all>p {
+    margin-bottom: 0.2rem;
+}
+
+@media (min-width: 600px) {
+    .eab-member {
+        width: 150px;
+    }
+
+    .eab-container {
+        gap: 2rem;
+    }
+
+}
+
+@media (min-width: 1024px) {
+    .eab-member {
+        width: 200px;
+    }
+}

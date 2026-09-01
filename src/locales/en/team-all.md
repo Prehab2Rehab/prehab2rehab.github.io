@@ -37,19 +37,3 @@
 **Peter Krimmer**, *stAPPtronics GmbH*
 
 **Susanne Bruckner**, *stAPPtronics GmbH*
-
-## Expert Advisory Board
-
-**Daniel Dick**, *Gesundheit Österreich GmbH*
-
-**Bruno Mähr**, *Versicherungsanstalt öffentlich Bediensteter, Eisenbahnen und Bergbau*
-
-**Rainald Seitelberger**, *Universitätsklinik für Herzchirurgie, Gefäßchirurgie und endovaskuläre Chirurgie der Gemeinnützige Salzburger Landeskliniken Betriebsgesellschaft mbH*
-
-**Carolin Steinmetz**, *University Medical Center Göttingen*
-
-**Nina Tamerl**, *Roodie Health GmbH*
-
-**Angelika Widhalm**, *Bundesverband Selbsthilfe Österreich*
-
-**Joachim Wiskemann**, *National Center for Tumor Diseases Heidelberg*

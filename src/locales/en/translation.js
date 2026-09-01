@@ -9,6 +9,7 @@ import privacyPolicyMD from './privacyPolicy.md?raw';
 import findingsJS from './findings.js';
 import findingsMD from './findings.md?raw';
 import teamJS from "./team.js";
+import eabJS from "./eab.js";
 import newsJS from './news.js';
 
 const en = {
@@ -60,6 +61,7 @@ const en = {
     industry: "Industry"
   },
   team: teamJS,
+  eab: eabJS,
   findings: { desc: findingsMD, list: findingsJS, publications: "Publication(s):" },
   news: {
     articles: newsJS,

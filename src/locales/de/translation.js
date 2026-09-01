@@ -9,6 +9,7 @@ import privacyPolicyMD from './privacyPolicy.md?raw'
 import findingsJS from './findings.js';
 import findingsMD from './findings.md?raw';
 import teamJS from "./team.js";
+import eabJS from "./eab.js";
 import newsJS from './news.js';
 
 const de = {
@@ -60,6 +61,7 @@ const de = {
     industry: "Wirtschaft"
   },
   team: teamJS,
+  eab: eabJS,
   contact: {
     heading: "Kontakt",
     description: "Wenn Sie Fragen, Anmerkungen haben oder am Projekt mitwirken möchten, können Sie sich gerne jederzeit an uns wenden.",
