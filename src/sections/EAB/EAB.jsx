@@ -23,29 +23,9 @@ const EAB = () => {
                                 <svg
                                     viewBox="0 0 64 64"
                                     xmlns="http://www.w3.org/2000/svg"
+                                    width="64"
+                                    height="64"
                                 >
-                                    <defs>
-                                        <linearGradient
-                                            id="blueGreenGradient"
-                                            x1="0"
-                                            y1="0"
-                                            x2="64"
-                                            y2="64"
-                                            gradientUnits="userSpaceOnUse"
-                                        >
-                                            <stop offset="0%" stopColor="#2563EB" />
-                                            <stop offset="100%" stopColor="#10B981" />
-                                        </linearGradient>
-                                    </defs>
-
-                                    {/* Gradient circle — everything outside it is transparent */}
-                                    <circle
-                                        cx="32"
-                                        cy="32"
-                                        r="32"
-                                        fill="url(#blueGreenGradient)"
-                                    />
-
                                     {/* Person */}
                                     <circle
                                         cx="32"
