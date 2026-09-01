@@ -4,6 +4,7 @@ import Goals from '../sections/Goals/Goals';
 import UseCases from '../sections/UseCases/UseCases';
 import Partner from '../sections/Partner/Partner';
 import Team from '../sections/Team/Team';
+import EAB from '../sections/EAB/EAB';
 import News from '../sections/News/News';
 import Findings from '../sections/Findings/Findings';
 
@@ -16,6 +17,7 @@ export default function Home() {
       <UseCases />
       <Partner />
       <Team />
+      <EAB />
       <Findings />
       <News />
     </>
