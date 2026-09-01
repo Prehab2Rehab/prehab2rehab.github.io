@@ -21,6 +21,13 @@
     border-radius: 0.5rem;
     aspect-ratio: 1 / 1;
     position: relative;
+    background: linear-gradient(135deg, #2563EB 0%, #10B981 100%);
+    border-radius: 50%;
+}
+
+.eab-icon-wrapper svg {
+    height: 100%;
+    width: 100%;
 }
 
 .eab-info .name {
