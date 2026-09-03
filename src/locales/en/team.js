@@ -49,7 +49,6 @@ const team = {
       { role: "Software development" },
       { role: "Software development" },
       { role: "Software development" },
-      { role: "Design, clickable prototypes" },
       { role: "Software development" }
     ]
   },
