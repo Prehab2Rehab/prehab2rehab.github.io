@@ -66,7 +66,6 @@ const team = {
       { name: "Thomas Schey", role: "Softwareentwicklung", image: "Thomas-Schey.png", rights: "" },
       { name: "Daniel Trabe", role: "Softwareentwicklung", image: "Daniel-Trabe.png", rights: "" },
       { name: "Rebekka Schönauer", role: "Softwareentwicklung", image: "Rebekka-Schoenauer.png", rights: "" },
-      { name: "Amelie Rinnerthaler", role: "Design, Klick-Prototypen", image: "Amelie-Rinnerthaler.jpg", rights: "" },
       { name: "Andreas Steiner", role: "Softwareentwicklung", image: "Andreas-Steiner.png", rights: "" }
     ]
   },
