@@ -4,7 +4,7 @@ const articles = [
     "headline": "🏥 Visit to Reha St. Veit im Pongau",
     "date": "30.09.2025",
     "image": "16-St.Veit-besuch.jpg",
-    "text": "In September we visited the oncological rehabilitation centre St. Veit im Pongau — the rehabilitation site for our visceral oncology patients within Prehab2Rehab. The focus was on aligning the rehabilitation pathway and gaining insights for the study preparation. 👇 More in the post!",
+    "text": "In September we visited the oncological rehabilitation centre St. Veit im Pongau — the rehabilitation site for our visceral oncology patients within Prehab2Rehab. The focus was on aligning the rehabilitation pathway and gaining insights for the study preparation. More in the post!👇",
     "linkedinUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7511395176943222784",
     "videoUrl": ""
   },
