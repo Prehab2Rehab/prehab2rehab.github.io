@@ -4,7 +4,7 @@ const articles = [
     "headline": "🏥 Besuch in der Reha St. Veit im Pongau",
     "date": "30.09.2025",
     "image": "16-St.Veit-besuch.jpg",
-    "text": "Im September besuchten wir die onkologische Rehabilitation St. Veit im Pongau – dem Reha-Standort für unsere viszeralonkologischen Patient:innen im Rahmen von Prehab2Rehab. Im Fokus stand die Abstimmung des Rehabilitationsablaufs und wertvolle Einblicke für die Studienvorbereitung. 👇 Mehr dazu im Post",
+    "text": "Im September besuchten wir die onkologische Rehabilitation St. Veit im Pongau – dem Reha-Standort für unsere viszeralonkologischen Patient:innen im Rahmen von Prehab2Rehab. Im Fokus stand die Abstimmung des Rehabilitationsablaufs und wertvolle Einblicke für die Studienvorbereitung. Mehr dazu im Post!👇",
     "linkedinUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7511395176943222784",
     "videoUrl": ""
   },
