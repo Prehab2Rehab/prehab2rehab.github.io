@@ -1,6 +1,15 @@
 const articles = [
   
- {
+  {
+    "headline": "🏥 Prehab2Rehab an der SALK: Die ersten Monate",
+    "date": "",
+    "image": "17-P2R-at-SALK.png",
+    "text": "Seit Juni begleiten wir Patient:innen an der SALK. 12 Patient:innen, 11 abgeschlossene Prähabilitationsprogramme, erste OP erfolgreich. Aber wie war es vom ersten Tag an? 👇 Mehr dazu im Post!",
+    "linkedinUrl": "https://lnkd.in/p/de-fgjM5",
+    "videoUrl": ""
+  },
+  
+  {
     "headline": "🏥 Besuch in der Reha St. Veit im Pongau",
     "date": "30.09.2025",
     "image": "16-St.Veit-besuch.jpg",
