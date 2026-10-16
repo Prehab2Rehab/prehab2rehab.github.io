@@ -4,7 +4,7 @@ const articles = [
     "headline": "🩺 Prehab2Rehab at SALK: The First Months",
     "date": "15.10.2026",
     "image": "17-P2R-at-SALK.png",
-    "text": "Since June we have been accompanying patients at SALK as part of our feasibility study on visceral surgery prehabilitation. 12 patients, 11 completed prehabilitation programs, first surgery took place on July 22nd. But what was it like from day one? 👇 More in the post!",
+    "text": "Since June we have been accompanying patients at SALK as part of our feasibility study on visceral surgery prehabilitation. 12 patients, 11 completed prehabilitation programs, first surgery took place on July 22nd. But what was it like from day one? Find out in the post!👇",
     "linkedinUrl": "https://lnkd.in/p/de-fgjM5",
     "videoUrl": ""
   },
