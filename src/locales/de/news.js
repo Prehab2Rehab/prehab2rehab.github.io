@@ -13,7 +13,7 @@ const articles = [
     "headline": "🏥 Besuch in der Reha St. Veit im Pongau",
     "date": "30.09.2025",
     "image": "16-St.Veit-besuch.jpg",
-    "text": "Im September besuchten wir die onkologische Rehabilitation St. Veit im Pongau – dem Reha-Standort für unsere viszeralonkologischen Patient:innen im Rahmen von Prehab2Rehab. Im Fokus stand die Abstimmung des Rehabilitationsablaufs und wertvolle Einblicke für die Studienvorbereitung. Mehr dazu im Post!👇",
+    "text": "Im September besuchten wir die onkologische Rehabilitation St. Veit im Pongau – dem Reha-Standort für unsere viszeralonkologischen Patient:innen im Rahmen von Prehab2Rehab. Im Fokus stand die Abstimmung des Rehabilitationsablaufs und wertvolle Einblicke für die Studienvorbereitung.",
     "linkedinUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7511395176943222784",
     "videoUrl": ""
   },
@@ -21,7 +21,7 @@ const articles = [
     "headline": "🇵🇹 Prehab2Rehab auf der IH'26",
     "date": "07.07.2026",
     "image": "15-IH26.jpeg",
-    "text": "Diesen Monat waren wir auf der inaugural ACM Interactive Health Conference in Porto, einer neuen Konferenz an der Schnittstelle von HCI und Gesundheit. Unser Poster beleuchtete Patientenbedürfnisse und Chancen für die digitale Gesundheitsversorgung. Toller Austausch und inspirierende Synergien rund um Prähabilitation. Mehr dazu im Post!",
+    "text": "Diesen Monat waren wir auf der inaugural ACM Interactive Health Conference in Porto, einer neuen Konferenz an der Schnittstelle von HCI und Gesundheit. Unser Poster beleuchtete Patientenbedürfnisse und Chancen für die digitale Gesundheitsversorgung. Toller Austausch und inspirierende Synergien rund um Prähabilitation.",
     "linkedinUrl": "https://www.linkedin.com/posts/prehab2rehab-acminteractivehealth-ih2026-share-7486017481103491072-U1ts/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFxpF20BJbRuUnXUz573ydpDg2khZbZXzD8",
     "videoUrl": ""
   },
@@ -52,7 +52,7 @@ const articles = [
     "headline": "🤝 Projektgremium in Salzburg",
     "date": "29.01.2026",
     "image": "11-projektgremiums-januar.jpg",
-    "text": "Im Januar traf sich das erweiterte Projektgremium in Salzburg, um die nächsten Schritte für die Machbarkeitsstudien zu besprechen. Im Fokus standen die Abstimmung im Konsortium sowie Updates zur Umsetzung der drei Anwendungsfälle. 👉 Mehr dazu im Post!",
+    "text": "Im Januar traf sich das erweiterte Projektgremium in Salzburg, um die nächsten Schritte für die Machbarkeitsstudien zu besprechen. Im Fokus standen die Abstimmung im Konsortium sowie Updates zur Umsetzung der drei Anwendungsfälle.",
     "linkedinUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7430231102289633281",
   },
   {
