@@ -12,7 +12,7 @@ const articles = [
     "headline": "🏥 Visit to Reha St. Veit im Pongau",
     "date": "30.09.2025",
     "image": "16-St.Veit-besuch.jpg",
-    "text": "In September we visited the oncological rehabilitation centre St. Veit im Pongau — the rehabilitation site for our visceral oncology patients within Prehab2Rehab. The focus was on aligning the rehabilitation pathway and gaining insights for the study preparation. More in the post!👇",
+    "text": "In September we visited the oncological rehabilitation centre St. Veit im Pongau — the rehabilitation site for our visceral oncology patients within Prehab2Rehab. The focus was on aligning the rehabilitation pathway and gaining insights for the study preparation.",
     "linkedinUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7511395176943222784",
     "videoUrl": ""
   },
@@ -20,7 +20,7 @@ const articles = [
     "headline": "🇵🇹 Prehab2Rehab at IH '26 in Porto",
     "date": "07.07.2026",
     "image": "15-IH26.jpeg",
-    "text": "This month we presented first outcomes of our project at the inaugural ACM Interactive Health Conference in Porto, a new conference at the intersection of HCI and Health. Our poster focused on patient needs and opportunities for digital health. Great exchanges with fellow researchers and inspiring synergies around the topic of prehabilitation. More in the post!👇",
+    "text": "This month we presented first outcomes of our project at the inaugural ACM Interactive Health Conference in Porto, a new conference at the intersection of HCI and Health. Our poster focused on patient needs and opportunities for digital health. Great exchanges with fellow researchers and inspiring synergies around the topic of prehabilitation.",
     "linkedinUrl": "https://www.linkedin.com/posts/prehab2rehab-acminteractivehealth-ih2026-share-7486017481103491072-U1ts/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFxpF20BJbRuUnXUz573ydpDg2khZbZXzD8",
     "videoUrl": ""
   },
@@ -28,7 +28,7 @@ const articles = [
    "headline": "📋 Study Start in Bad Vigaun",
    "date": "30.06.2026",
    "image": "14-BV-study-started.jpg",
-   "text": "An important milestone has been reached: the feasibility study at Medizinisches Zentrum Bad Vigaun has officially started! After months of intensive preparation, the first patients are already experiencing integrated, digitally supported prehabilitation ahead of their knee replacement surgery. 👇 Find out what it took to get here in the post!",
+   "text": "An important milestone has been reached: the feasibility study at Medizinisches Zentrum Bad Vigaun has officially started! After months of intensive preparation, the first patients are already experiencing integrated, digitally supported prehabilitation ahead of their knee replacement surgery. Find out what it took to get here in the post!👇",
    "linkedinUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7477980967522086912",
    "videoUrl": ""
   },
@@ -51,7 +51,7 @@ const articles = [
     "headline": "🤝 Project Meeting in Salzburg",
     "date": "29.01.2026",
     "image": "11-projektgremiums-januar.jpg",
-    "text": "In January, the expanded project board met in Salzburg to discuss next steps for the feasibility studies. The focus was on consortium alignment and updates on implementing the three use cases. 👉 More in the post!",
+    "text": "In January, the expanded project board met in Salzburg to discuss next steps for the feasibility studies. The focus was on consortium alignment and updates on implementing the three use cases.",
     "linkedinUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7430231102289633281",
   },
   {
@@ -66,7 +66,7 @@ const articles = [
     "headline": "👥 Stakeholder involvement",
     "date": "03.12.2025",
     "image": "9-video-WP2.png",
-    "text": "To understand the journey of patients from diagnosis back to everyday life, we spoke with those affected, as well as therapists and doctors. 👉 In the video, you can learn more about our approach and key insights.",
+    "text": "To understand the journey of patients from diagnosis back to everyday life, we spoke with those affected, as well as therapists and doctors. In the video, you can learn more about our approach and key insights.👇",
     "linkedinUrl": "https://www.linkedin.com/posts/prehab2rehab_prehab2rehab-digitalhealth-scienceforsociety-activity-7401614875300466688-5E3M?utm_source=share&utm_medium=member_desktop&rcm=ACoAACKHRlIB76ol-DAzLj-F-uTCK5_r6CzFhag",
     "videoUrl": "https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7401614768727306240?compact=1"
   },
