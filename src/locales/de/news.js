@@ -1,10 +1,10 @@
 const articles = [
   
   {
-    "headline": "🏥 Prehab2Rehab an der SALK: Die ersten Monate",
-    "date": "",
+    "headline": "🩺 Prehab2Rehab an der SALK: Die ersten Monate",
+    "date": "15.10.2026",
     "image": "17-P2R-at-SALK.png",
-    "text": "Seit Juni begleiten wir Patient:innen an der SALK. 12 Patient:innen, 11 abgeschlossene Prähabilitationsprogramme, erste OP erfolgreich. Aber wie war es vom ersten Tag an? 👇 Mehr dazu im Post!",
+    "text": "Seit Juni begleiten wir Patient:innen an der SALK im Rahmen unserer Machbarkeitsstudie zur viszeralchirurgischen Prähabilitation. 12 Patient:innen, 11 abgeschlossene Prähabilitationsprogramme, erste OP erfolgreich. Aber wie war es vom ersten Tag an? 👇 Mehr dazu im Post!",
     "linkedinUrl": "https://lnkd.in/p/de-fgjM5",
     "videoUrl": ""
   },
