@@ -1,6 +1,14 @@
 const articles = [
   
-   {
+  {
+    "headline": "🗞️ Press Report: Study in Bad Vigaun",
+    "date": "20.10.2026",
+    "image": "18-BV-OEKZ.png",
+    "text": "Our clinical partner Medizinisches Zentrum Bad Vigaun is featured in the latest issue of the Austrian Hospital Newspaper (ÖKZ) with a great insight into our joint study on digital prehabilitation before knee replacement surgery. You can find the article in the post! 👇",
+    "linkedinUrl": "https://lnkd.in/p/dzVHavz2",
+    "videoUrl": ""
+  },
+  {
     "headline": "🩺 Prehab2Rehab at SALK: The First Months",
     "date": "15.10.2026",
     "image": "17-P2R-at-SALK.png",
