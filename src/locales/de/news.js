@@ -1,5 +1,13 @@
 const articles = [
   
+ {
+    "headline": "🗞️ Pressebericht: Studie in Bad Vigaun",
+    "date": "20.10.2026",
+    "image": "18-BV-OEKZ.png",
+    "text": "Unser Klinischer Partner Medizinisches Zentrum Bad Vigaun ist in der aktuellen Ausgabe der Österreichischen Krankenhauszeitung (ÖKZ) mit einem schönen Einblick in unsere gemeinsame Studie zur digitalen Prähabilitation vor Kniegelenksersatz-Operationen. Den Artikel finden Sie im Post! 👇",
+    "linkedinUrl": "https://lnkd.in/p/dzVHavz2",
+    "videoUrl": ""
+  },
   {
     "headline": "🩺 Prehab2Rehab an der SALK: Die ersten Monate",
     "date": "15.10.2026",
