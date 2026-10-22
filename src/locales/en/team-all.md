@@ -8,7 +8,9 @@
 
 **Andreas Zuckermann**, *Medical University of Vienna Institute for Outcomes Research*
 
-**Valentina Schmolik**, *Medical University of Vienna Institute for Outcomes Research*
+**Michael Vorstandlechner**, *Medical University of Vienna Institute for Outcomes Research*
+
+**Luisa Dafert**, *Medical University of Vienna Institute for Outcomes Research*
 
 **Valentin Ritschl**, *Medical University of Vienna Institute for Outcomes Research*
 
