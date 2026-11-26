@@ -20,32 +20,39 @@ const EAB = () => {
                         >
 
                             <div className="eab-icon-wrapper">
-                                <svg
-                                    viewBox="0 0 64 64"
-                                    xmlns="http://www.w3.org/2000/svg"
-                                    width="64"
-                                    height="64"
-                                >
-                                    {/* Person */}
-                                    <circle
-                                        cx="32"
-                                        cy="23"
-                                        r="8"
-                                        fill="#FFFFFF"
+                                {person.image ? (
+                                    <img
+                                        src={"eab/" + person.image}
+                                        alt={person.name}
+                                        className="eab-person-img"
                                     />
+                                ) : (
+                                    <svg
+                                        viewBox="0 0 64 64"
+                                        xmlns="http://www.w3.org/2000/svg"
+                                        width="64"
+                                        height="64"
+                                    >
+                                        <circle
+                                            cx="32"
+                                            cy="23"
+                                            r="8"
+                                            fill="#FFFFFF"
+                                        />
 
-                                    <path
-                                        d="M16 48C16 39.16 23.16 32 32 32C40.84 32 48 39.16 48 48Z"
-                                        fill="#FFFFFF"
-                                    />
-                                </svg>
+                                        <path
+                                            d="M16 48C16 39.16 23.16 32 32 32C40.84 32 48 39.16 48 48Z"
+                                            fill="#FFFFFF"
+                                        />
+                                    </svg>
+                                )}
                             </div>
 
                             <div className="eab-info">
                                 <h3 className="name">{person.name}</h3>
                                 <p className="org">{t(`eab.people.${index}.org`)}</p>
+                                <p className="eab-rights">{person.rights}</p>
                             </div>
-
                         </div>
                     ))}
                 </div>

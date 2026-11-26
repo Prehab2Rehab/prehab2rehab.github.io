@@ -17,8 +17,8 @@
     width: 60%;
     display: flex;
     justify-content: center;
+    align-items: center;
     overflow: hidden;
-    border-radius: 0.5rem;
     aspect-ratio: 1 / 1;
     position: relative;
     background: linear-gradient(135deg, #2563EB 0%, #10B981 100%);
@@ -28,6 +28,13 @@
 .eab-icon-wrapper svg {
     height: 100%;
     width: 100%;
+}
+
+.eab-person-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 50%;
 }
 
 .eab-info .name {
@@ -47,6 +54,11 @@
 
 .eab-all>p {
     margin-bottom: 0.2rem;
+}
+
+.eab-rights {
+    font-size: 0.6rem;
+    font-style: italic;
 }
 
 @media (min-width: 600px) {
