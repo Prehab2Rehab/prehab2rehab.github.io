@@ -14,11 +14,12 @@ import newsJS from './news.js';
 
 const en = {
   menu: {
-    about: "About the Project",
-    goals: "Project Goals",
-    facts: "Project Facts",
+    about: "About",
+    goals: "Goals",
+    facts: "Facts",
     usecases: "Use Cases",
-    partner: "Project Partners",
+    partner: "Partners",
+    eab: "Expert Advisory Board",
     findings: "Findings",
     news: "News",
     contact: "Contact"

@@ -1,7 +1,7 @@
 const eab = {
   title: "Expert Advisory Board",
   people: [
-    { name: "Daniel Dick", org: "Gesundheit Österreich GmbH" },
+    { name: "Daniel Dick", org: "Gesundheit Österreich GmbH",  rights: "Image © C. Ettl"},
     { name: "Bruno Mähr", org: "Versicherungsanstalt öffentlich Bediensteter, Eisenbahnen und Bergbau" },
     { name: "Rainald Seitelberger", org: "Gemeinnützige Salzburger Landeskliniken Betriebsgesellschaft mbH" },
     { name: "Carolin Steinmetz", org: "University Medical Center Göttingen" },

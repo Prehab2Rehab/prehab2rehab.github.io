@@ -51,7 +51,7 @@ const EAB = () => {
                             <div className="eab-info">
                                 <h3 className="name">{person.name}</h3>
                                 <p className="org">{t(`eab.people.${index}.org`)}</p>
-                                <p className="eab-rights">{person.rights}</p>
+                                <p className="eab-rights">{t(`eab.people.${index}.rights`)}</p>
                             </div>
                         </div>
                     ))}
